@@ -262,44 +262,7 @@ npm run build
 npm run preview
 ```
 
-## 📦 Database Models
 
-- **User**: Core user authentication and profile
-- **Alumni**: Extended alumni-specific information
-- **Student**: Student-specific details
-- **Job**: Job postings and applications
-- **Mentorship**: Mentorship requests and relationships
-- **Referral**: Referral requests with anti-spam controls
-- **InterviewExperience**: Curated interview experiences
-
-## 🤝 Contributing
-
-This is a hackathon project. For major changes, please discuss with the team first.
-
-## 📄 License
-
-This project is for educational/hackathon purposes.
-
-## 👥 Team
-
-Built for HackOverflow Hackathon
-
-## 🐛 Known Issues / TODO
-
-- [ ] Implement complete CRUD operations for all entities
-- [ ] Add email verification system
-- [ ] Implement file upload for resumes and documents
-- [ ] Add real-time notifications
-- [ ] Implement search and filtering
-- [ ] Add pagination for large datasets
-- [ ] Implement rate limiting
-- [ ] Add comprehensive error handling
-- [ ] Write unit and integration tests
-- [ ] Add API documentation with Swagger
-- [ ] Implement caching with Redis
-- [ ] Add social authentication (Google, LinkedIn)
-
-## 📞 Support
 
 For any queries or issues, please contact the development team.
 
